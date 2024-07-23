@@ -15,7 +15,4 @@ document.addEventListener('click', function() {  // 检查页面中是否存在�
     } else {
         console.log('No video element found');
     }
-});
-
-
-    // bug的问题所以要点击两次屏幕
+});                                               // bug的问题所以要点击两次屏幕
